@@ -10,3 +10,12 @@ typeof (1 + "3");
 typeof (1 \* "a");
 typeof null;
 ```
+
+String
+undefine
+string
+number
+number
+number3
+error
+object

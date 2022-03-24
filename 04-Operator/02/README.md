@@ -7,3 +7,9 @@ let a = undefined;
 let b = null;
 let c = b + "4 2";
 ```
+
+NaN
+0
+NaN
+
+Because value of a is undefined/ value of b is Null/ value of c is error

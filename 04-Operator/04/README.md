@@ -13,3 +13,15 @@ console.log(2 + 4 + 'px');
 console.log(null + 1);
 console.log(undefined + 1);
 ```
+
+10
+error
+1
+2
+error
+-14
+-9 5
+NaN
+6px
+1
+NaN
