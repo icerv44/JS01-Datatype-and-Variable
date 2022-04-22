@@ -12,7 +12,9 @@
 [1.Comment Your JavaScript Code](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)
 ```js
 // Finish and Paste your solution here
+/*TestComment */
 
+//TestComment
 
 
 ```
@@ -20,7 +22,7 @@
 [2.Declare JavaScript Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables)
 ```js
 // Finish and Paste your solution here
-
+var myName  ;
 
 
 ```
