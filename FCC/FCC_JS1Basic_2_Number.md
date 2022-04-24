@@ -20,7 +20,7 @@
 [1.Add Two Numbers with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript)
 ```js
 // Finish and Paste your solution here
-
+const sum = 10 + 10;
 
 
 ```
@@ -29,14 +29,14 @@
 ```js
 // Finish and Paste your solution here
 
-
+const difference = 45 - 33;
 
 ```
 
 [3.Multiply Two Numbers with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-numbers-with-javascript)
 ```js
 // Finish and Paste your solution here
-
+const product = 8 * 10;
 
 
 ```
