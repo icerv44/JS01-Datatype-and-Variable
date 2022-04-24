@@ -4,7 +4,8 @@
 [1.Declare String Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables)
 ```js
 // Finish and Paste your solution here
-
+var myFirstName = "Name";
+var myLastName  = "LastN";
 
 ```
 
@@ -12,7 +13,7 @@
 [2.Escaping Literal Quotes in StringsPassed](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings)
 ```js
 // Finish and Paste your solution here
-
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
 
 ```
 
@@ -26,7 +27,15 @@
 [4.Escape Sequences in Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings)
 ```js
 // Finish and Paste your solution here
+// Variable declarations
+var studlyCapVar ;
+var properCamelCase ;
+var titleCaseOver ;
 
+// Variable assignments
+studlyCapVar  = 10;
+properCamelCase = "A String";
+titleCaseOver  = 9000;
 
 ```
 
