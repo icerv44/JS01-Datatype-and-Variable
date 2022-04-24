@@ -29,7 +29,8 @@ var myName  ;
 [3.Storing Values with the Assignment Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator)
 ```js
 // Finish and Paste your solution here
-
+var a;
+a=7;
 
 
 ```
@@ -37,27 +38,46 @@ var myName  ;
 ```js
 // Finish and Paste your solution here
 
-
+var a;
+a = 7;
+var b;
+b=a
 
 ```
 [5.Initializing Variables with the Assignment Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator)
 ```js
 // Finish and Paste your solution here
-
+var a = 9
 
 
 ```
 [6.Understanding Uninitialized Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables)
 ```js
 // Finish and Paste your solution here
+// Only change code below this line
+var a = 5;
+var b = 10;
+var c = "I am a";
+// Only change code above this line
 
+a = a + 1;
+b = b + 5;
+c = c + " String!";
 
 
 ```
 [7.Understanding Case Sensitivity in Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)
 ```js
 // Finish and Paste your solution here
+// Variable declarations
+var studlyCapVar ;
+var properCamelCase ;
+var titleCaseOver ;
 
+// Variable assignments
+studlyCapVar  = 10;
+properCamelCase = "A String";
+titleCaseOver  = 9000;
 
 
 ```
